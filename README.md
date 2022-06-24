@@ -18,5 +18,5 @@ I'm a Computer Science undergraduate studying at the University of Warwick. My i
 
 ---
 
-[![Top Langs](https://github-readme-stats-ikarsk.vercel.app/api/top-langs/?username=iKarsk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ikarsk.vercel.app/api/top-langs/?username=iKarsk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
