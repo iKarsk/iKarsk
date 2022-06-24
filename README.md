@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2 align='center'>
+<img src="ProfilePhoto.png" width="100"/>
+<br/>
+Hello, I'm Krystian. <img src="wave.gif" width="30px" height="30px">
+<br/>
+<a href="https://www.linkedin.com/in/krystian-karski/"><img height="20" src="linkedin.png"></a>
+<a href="https://www.krystiankarski.com/"><img height="20" src="website.png"></a>
+</h2>
 
-<!--
-**iKarsk/iKarsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate studying at the University of Warwick. My interests include:
+<ul>
+  <li>Computer Security</li>
+  <li>Functional Programming ⭐</li>
+  <li>Hardware design</li>
+  </ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently collaborating on a web API written in Haskell with <a href="https://www.github.com/joverandout">Joe</a>. 
