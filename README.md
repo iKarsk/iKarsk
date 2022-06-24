@@ -14,7 +14,7 @@ I'm a Computer Science undergraduate studying at the University of Warwick. My i
   <li>Hardware design</li>
   </ul>
 
-🔭 I’m currently collaborating on a web API written in Haskell with <a href="https://www.github.com/joverandout">Joe</a>. 
+🔭 I’m currently collaborating on a <a href="https://github.com/joverandout/Haskell-Servant-API">web API written in Haskell</a> with <a href="https://www.github.com/joverandout">Joe</a>. 
 
 ---
 <div align="center">
