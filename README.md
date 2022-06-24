@@ -19,6 +19,6 @@ I'm a Computer Science undergraduate studying at the University of Warwick. My i
 ---
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-ikarsk.vercel.app/api/top-langs/?username=iKarsk&layout=compact&theme=radical&exclude_repo=github-readme-stats)
+![Top Langs](https://github-readme-stats-ikarsk.vercel.app/api/top-langs/?username=iKarsk&layout=compact&theme=radical&exclude_repo=github-readme-stats)
 
 </div>
