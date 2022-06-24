@@ -15,3 +15,7 @@ I'm a Computer Science undergraduate studying at the University of Warwick. My i
   </ul>
 
 🔭 I’m currently collaborating on a web API written in Haskell with <a href="https://www.github.com/joverandout">Joe</a>. 
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iKarsk0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
