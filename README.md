@@ -1,7 +1,7 @@
 <h2 align='center'>
 <img src="ProfilePhoto.png" width="100"/>
 <br/>
-Hello, I'm Krystian. <img src="wave.gif" width="30px" height="30px">
+Hello, I'm Krystian. <img src="wave.gif" width="30%" height="auto">
 <br/>
 <a href="https://www.linkedin.com/in/krystian-karski/"><img height="20" src="linkedin.png"></a>
 <a href="https://www.krystiankarski.com/"><img height="20" src="website.png"></a>
