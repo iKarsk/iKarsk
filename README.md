@@ -1,11 +1,11 @@
-<h2 align='center'>
+<h1 align='center'>
 <img src="ProfilePhoto.png" width="100"/>
 <br/>
 Hello, I'm Krystian. <img src="wave.gif" width="3%" height="auto">
 <br/>
 <a href="https://www.linkedin.com/in/krystian-karski/"><img height="20" src="linkedin.png"></a>
 <a href="https://www.skavengr.com/"><img height="20" src="skavengr.png"></a>
-</h2>
+</h1>
 
 I'm a third year Computer Science undergraduate studying at the University of Warwick.
 
@@ -17,9 +17,9 @@ I'm a third year Computer Science undergraduate studying at the University of Wa
 
 ---
 
-<h3>
+<h2>
 🔭 Projects
-</h3>
+</h2>
 
 <ul>
   <li><a href="https://www.skavengr.com"><img height="15" src="skavengr.png"> Skavengr</a> - Created with <a href="https://github.com/joverandout">Joe Moore</a>, Skavengr allows you to build your own interactive scavenger hunts. Featuring embeddable videos, images and Streetview maps; fully customisable routes; automatic team code generation; live progress tracking of each team and much more.
