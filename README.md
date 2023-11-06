@@ -15,7 +15,6 @@ I'm a third year Computer Science undergraduate studying at the University of Wa
   <li>Security Enthusiast</li>
   </ul>
 
----
 
 <h2>
 🔭 Projects
