@@ -46,6 +46,10 @@ I'm a third year Computer Science undergraduate studying at the University of Wa
     <img height="20" src="haskell.png">
   
   </li>
+
+  <li>
+    <a href="https://github.com/iKarsk/alfred-strip">Alfred Text Stripper</a> - A small Alfred workflow to strip leading and trailing whitespace from text.
+  </li>
 </ul>
 
 
