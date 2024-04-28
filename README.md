@@ -34,6 +34,18 @@ I'm a third year Computer Science undergraduate studying at the University of Wa
 
   <br>
 
+  <li><a href="https://compiler-visualiser.vercel.app/">Compiler Visualiser</a> - allows you to visually explore the algorithm behind a lexer and a top-down recursive descent parser for your own input code, as well as view the LLVM IR and execution result of your program. Animations visually explain all theorical constructs like finite automata.
+  <br>
+  <img alt="typescript" height="20" src="typescript.png">
+  <img alt="css" height="20" src="css.png">
+  <img alt="nextJS" height="20" src="nextjs.svg">
+  <img alt="react" height="20" src="react.png">
+  <img alt="oracle" height="20" src="oracle.png">
+
+  </li>
+
+  <br>
+
   <li>
   <a href="https://github.com/iKarsk/2-lambda">2<sup>λ</sup></a> - A graphical implementation of the game '2048' written in Haskell.
   <br>
